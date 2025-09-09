@@ -80,7 +80,7 @@ metadata:
 spec:
   ingressClassName: traefik
   rules:
-    - host: tuh.srachdi.duckdns.org
+    - host: tuh.192.168.56.110.nip.io
       http:
         paths:
           - path: /
