@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: tuh
-          image: srachdi/tuh:v1
+          image: srachdi/tuh:v2
           imagePullPolicy: IfNotPresent
           ports:
             - containerPort: 8888
